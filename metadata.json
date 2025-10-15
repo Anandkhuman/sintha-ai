@@ -1,0 +1,5 @@
+{
+  "name": "AI Audio to Text Converter",
+  "description": "An AI-powered audio to text converter that automatically detects the source language in an audio file and transcribes it into a selected target language using the Gemini API.",
+  "requestFramePermissions": []
+}
